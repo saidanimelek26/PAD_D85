@@ -5,9 +5,3 @@
 #
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_PAD_D85.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_PAD_D85-user \
-    omni_PAD_D85-userdebug \
-    omni_PAD_D85-eng
-
