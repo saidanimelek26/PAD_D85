@@ -3,6 +3,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 add_lunch_combo omni_PAD_D85-user
-add_lunch_combo omni_PAD_D85-userdebug
-add_lunch_combo omni_PAD_D85-eng
-export TW_DISABLE_ROOMSERVICE=1
